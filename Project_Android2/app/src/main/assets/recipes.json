@@ -4,47 +4,47 @@
       "title": "Valhein",
       "image" : "https://rov.gamefever.co/wp-content/uploads/rov_database_image/hero_image/68.jpg",
       "url": "http://www.delish.com/cooking/recipe-ideas/recipes/a11249/grilled-deviled-chickens-under-brick-mslo0510-recipe/",
-      "description": "สกิลติดตัว Pocket Glaive การโจมตีปกติครั้งที่ 3 จะยิงจักรแบบสุ่มออกมา และได้รับบัฟนักล่าปีศาจ ซึ่งจะเพิ่มความเร็วเคลื่อนที่ 10% เป็นเวลา 2 วิ (สูงสุด 5 ครั้ง), สกิล 1 Bloody Hunt Valhein ขว้างจักรแดงใส่ศัตรู สร้าง ความเสียหายเวท 300 (+80% AD) (+80% AP) เป็นวงกว้าง พร้อมกับได้รับบัฟนักล่าปีศาจ 1 ครั้ง, สกิล 2 Curse of Death Valhein ขว้างจักรทองใส่เป้าหมาย สร้าง ความเสียหายเวท 150 (+58% AD) (+60% AP) และทำให้ติดสตั๊น พร้อมกับได้รับบัฟนักล่าปีศาจ 1 ครั้ง, สกิลอัลติเมต Bullet Storm Valhein ยิงกระสุนเงินออกมา 6 นัด โดยกระสุนแต่ละนัดจะสร้าง ความเสียหายเวท 200 (+100% AD) (+100% AP) หากเป้าหมายถูกกระสุนมากกว่า 1 นัด จะทำให้กระสุนนัดถัดไปสร้างความเสียหายเพียง 40% ให้แก่ศัตรู และกระสุนแต่ละนัดที่โดนเป้าหมายจะเพิ่มจะเพิ่มความเร็วเคลื่อนที่ 10% (สูงสุด 60%) ความเร็วโจมตี 8% (สูงสุด 48%) เป็นเวลา 3 วิ",
+      "description": "สกิลติดตัว Pocket Glaive การโจมตีปกติครั้งที่ 3 จะยิงจักรแบบสุ่มออกมา และได้รับบัฟนักล่าปีศาจ ซึ่งจะเพิ่มความเร็วเคลื่อนที่ 10% เป็นเวลา 2 วิ (สูงสุด 5 ครั้ง)",
       "servings": 4,
       "dietLabel": "Low-Carb",
       "ingredientLines" : [ "4 baby chickens (poussins) or cornish hens (about 1 1/4 pounds each), or 4 chicken breast halves", "3 lemons, plus wedges for garnish", "4 cloves garlic, peeled and smashed", "1 tablespoon crushed red-pepper flakes, or to taste", "1 tablespoon finely chopped fresh thyme", "1 tablespoon finely chopped fresh rosemary", "1/2 cup olive oil", "Salt, to taste" ]
     },
 
     {
-      "title": "Stir-Fried Rice with Chinese Sausage",
-      "image" : "https://www.edamam.com/web-img/341/3417c234dadb687c0d3a45345e86bff4.jpg",
+      "title": "Airi",
+      "image" : "https://rov.gamefever.co/wp-content/uploads/rov_database_image/hero_image/1.jpg",
       "url": "http://www.seriouseats.com/recipes/2011/06/stir-fried-rice-with-chinese-sausage-recipe.html",
-      "description": "While slices of Chinese sausage are good in any stir-fry, my favorite way to use them is in a rice or noodle dish, so the staple soaks ups the fat rendered from the sausage. Used in fried rice, the sausages impart a rich taste to each kernel.",
+      "description": "สกิลติดตัว Dragon Blade การโจมตีปกติแต่ละครั้ง จะลดคูลดาวน์สกิล Dragon Shuriken 1 วินาที",
       "servings": 4,
       "dietLabel": "Balanced",
       "ingredientLines" : [ "2 or 3 links of chineses sausage, cut into 1/4 inch slices", "4 cloves garlic, minced", "4 cups cold cooked rice", "2 tablespoons light soy sauce", "1/2 teaspoon salt", "1/4 teaspoon sugar", "1/4 teaspoon white pepper", "To garnish:", "Finely chopped green onion or cilantro" ]
     },
 
     {
-      "title": "Five-Spice Chicken Wings Recipe",
-      "image" : "https://www.edamam.com/web-img/c7d/c7d9644d5e696ec0a99af1563d3f3fc3.jpg",
+      "title": "Amily",
+      "image" : "https://rov.gamefever.co/wp-content/uploads/rov_database_image/hero_image/4.jpg",
       "url": "http://www.epicurious.com/recipes/food/views/Five-Spice-Chicken-Wings-109520",
-      "description": "The sweet heat from the Chinese five-spice powder may not be what you typically think of in terms of incendiary wings, and the crisp skin comes from the blast of a hot oven rather than the splattering of hot oil. Yet we’re quite, quite taken with them all the same. Wingdings for dinner.",
+      "description": "สกิลติดตัว Duel เมื่อการโจมตีปกติ หรือสกิล Combo ของ Amily โจมตีโดนเป้าหมายเดียว เธอจะสร้างความเสียหายเพิ่มขึ้น 50%",
       "servings": 4,
       "dietLabel": "Low-Carb",
       "ingredientLines" : [ "40 chicken wing pieces, or 20 whole chicken wings", "2 tablespoons chinese five-spice powder", "1 tablespoon cayenne pepper", "Kosher salt and freshly ground black pepper", "1/3 to 1/2 cup chopped fresh cilantro leaves", "1/4 cup light or regular sour cream", "1/4 cup mayonnaise", "1/4 cup plain yogurt", "Juice 1/2 lemon (or why not try lime?)" ]
     },
 
     {
-      "title": "Chinese Pork Ribs",
-      "image" : "https://www.edamam.com/web-img/f06/f062a39915fe22cf47ddd21ce03e78db.jpg",
+      "title": "Thane",
+      "image" : "https://rov.gamefever.co/wp-content/uploads/rov_database_image/hero_image/63.jpg",
       "url": "http://www.seriouseats.com/recipes/2009/07/grilling-chinese-style-spare-ribs-recipe.html",
-      "description": "A superquick family favourite - fab for barbeques.",
+      "description": "สกิลติดตัว Royal Power เมื่อพลังชีวิตของ Thane ต่ำกว่า 30% เขาจะได้รับความเสียหายเบาลง 25% และฟื้นฟู 24% ของพลังชีวิตสูงสุดเป็นเวลา 4 วิ (คูลดาวน์ 75 วินาที)",
       "servings": 4,
       "dietLabel": "Medium-Carb",
       "ingredientLines" : [ "1.0 tbsp clear honey", "1.0 tbsp vinegar (you can use cider, malt or wine)", "100.0ml hoisin sauce", "2.0 tbsp soy sauce", "12 meaty pork ribs", "1.0 tsp chinese five-spice powder" ]
     },
 
     {
-      "title": "Korean Rice Cakes (Dok Boki)",
-      "image" : "https://www.edamam.com/web-img/fb3/fb3bc87fd98258e3151e4e1604e5db1a.jpg",
+      "title": "Kriknak",
+      "image" : "https://rov.gamefever.co/wp-content/uploads/rov_database_image/hero_image/28.jpg",
       "url": "http://www.seriouseats.com/recipes/2010/11/seriously-asian-korean-rice-cakes-dok-boki.html",
-      "description": "Rice cake, called tteok in Korean, is a much-loved traditional dish with many many variations. No festival day, anniversary, or celebrations is complete without them. They are very chewy, and may be an acquired taste, but once you get hooked you'll crave them all the time.",
+      "description": "สกิลติดตัว Bite เมื่อ Kriknak ใช้สกิลโจมตีโดนศัตรู การโจมตีปกติครั้งต่อไป จะสร้าง ความเสียหายกายภาพ 80 (+100% กายภาพเพิ่มขึ้น)",
       "servings": 4,
       "dietLabel": "Low-Fat",
       "ingredientLines" : [ "6 to 8 fresh long rice cake sticks, or 20 smaller rice cake sticks", "For the sauce:", "3 tablespoons korean chili pepper paste", "3 to 4 tablespoons light soy sauce, depending on saltiness", "1 teaspoon sugar", "1 teaspoon rice vinegar", "Roasted sesame seeds to garnish" ]
@@ -52,50 +52,50 @@
     },
 
     {
-      "title": "Dump Cake",
-      "image" : "https://www.edamam.com/web-img/d14/d14cd8ea9dfafe5836f96a6b0f2e6da1.jpg",
+      "title": "Ignis",
+      "image" : "https://rov.gamefever.co/wp-content/uploads/rov_database_image/hero_image/23.jpg",
       "url": "http://www.epicurious.com/recipes/member/views/DUMP-CAKE-50059991",
-      "description": "Don’t let the name scare you. It’s a really simple dessert — usually made with a base of cake mix + fruit filling — where, true to its name, you can dump the ingredients into a pan, give it a stir, and bake.",
+      "description": "สกิลติดตัว Sacred Flame เมื่อสกิล Fire Crash โจมตีถูกเป้าหมาย จะทำให้ศัตรูติดสัญลักษณ์ไฟ ซึ่งหากใช้สกิลใส่เป้าหมายที่ติดสัญลักษณ์ จะทำให้สกิลได้รับการเพิ่มความสามารถ และยกเลิกคูลดาวน์สกิล Fire Crash  จากนั้นจะฟื้นฟู HP ให้ตนเอง 100 (+15% AP) หน่วย (สัญลักษณ์ไฟจะติดเป็นเวลา 3 วิ)",
       "servings": 12,
       "dietLabel": "Vegetarian",
       "ingredientLines" : [ "1 can (21 oz.) cherry pie filling", "1 can (15 oz.) crushed pineapple", "1 box (about 18 oz.) yellow or white cake mix", "1 stick margarine", "½ sticks butter", "Whipped cream" ]
     },
 
     {
-      "title": "Sugar Cookies",
-      "image" : "https://www.edamam.com/web-img/6d3/6d330326a8537689db909a91767595b6.jpg",
+      "title": "Alice",
+      "image" : "https://rov.gamefever.co/wp-content/uploads/rov_database_image/hero_image/3.jpg",
       "url": "http://www.seriouseats.com/recipes/2008/12/sugar-cookies-recipe-gina-depalma-holidays.html",
-      "description": "To be served warm, when they're nice and chewy, with jam or with strawberries and cream. When cooled and left unadorned, they become crisp and buttery sugar cookies.",
+      "description": "สกิลติดตัว Fleet-footed การใช้สกิลจะทำให้ความเร็วเคลื่อนที่เพิ่มขึ้น 20% เป็นเวลา 1 วิ",
       "servings": 42,
       "dietLabel": "Low-Sodium",
       "ingredientLines" : [ "2 1/2 cups self-rising white lily or cake flour", "2 sticks (1 cup) unsalted butter, softened", "1 1/2 cups sugar", "1 large egg, lightly beaten", "1 teaspoon vanilla" ]
     },
 
     {
-      "title": "Pretzel Dumplings With Creamed Chanterelle Mushrooms",
-      "image" : "https://www.edamam.com/web-img/1d0/1d0075b30ec5fc368ce9ccaf3156462a.jpg",
+      "title": "Violet",
+      "image" : "https://rov.gamefever.co/wp-content/uploads/rov_database_image/hero_image/71.jpg",
       "url": "http://www.deliciousdays.com/archives/2006/10/03/land-of-the-dumplings/",
-      "description": "A warm homy dish",
+      "description": "สกิลติดตัว Reload หากโจมตีปกติ หรือ ใช้สกิล 2 และ 3 โดนฮีโร่ศัตรู จะลดคูลดาวน์ให้กับสกิล Tactical Fire 0.5 วินาที",
       "servings": 10,
       "dietLabel": "Low-Carb",
       "ingredientLines" : [ "200-250 g pretzels", "150 ml hot milk", "1 tbsp butter", "30 g bacon, finely chopped", "1 x onion, finely chopped", "2 x eggs", "Fresh parsley, chopped", "Salt", "Freshly ground black pepp", "Nutmeg", "1 tbsp butter for creamed chanterelle mushroom sauce", "1-2 x shallots", "250 g chanterelle mushrooms", "100-200 ml vegetable broth", "100 ml heavy cream", "2 tbsp sherry", "Salt and freshly ground black pepp", "Fresh chives, chopped for decoration" ]
     },
 
     {
-      "title": "Creamed Candy Corn",
-      "image" : "https://www.edamam.com/web-img/a5a/a5a5a0716d6e7ff4f020c86e546c1013.jpg",
+      "title": "D'Arcy",
+      "image" : "https://rov.gamefever.co/wp-content/uploads/rov_database_image/hero_image/15.jpg",
       "url": "http://www.seriouseats.com/recipes/2010/11/cakespy-creamed-candy-corn-recipe.html",
-      "description": "The resulting candy corn slurry is certainly one of those dishes that straddles the line between awful and awesome: that is to say, you might just like it, but you probably wouldn't confess that to your foodie friends.",
+      "description": "สกิลติดตัว Dimensional Force D'Arcy จะสะสมเกจพลังทุกครั้งที่โจมตีปกติ หรือใช้สกิลโดนศัตรู (เกจพลังจะหายอย่างรวดเร็วหลังออกจากการต่อสู้) หลังจากสะสมพลังจนเต็ม เขาจะฟื้นฟู 20% ของ MP ที่เสียไป และเพิ่มพลังให้กับสกิล 1 และ 2 ครั้งต่อไป รวมถึงวิ่งเร็วขึ้น 20% เป็นเวลา 8 วิ",
       "servings": 6,
       "dietLabel": "Vegetarian",
       "ingredientLines" :[ "1 cup cream or half and half", "2 tablespoons butter", "2 tablespoons instant vanilla pudding mix", "1 bag (11 ounces) candy corn" ]
     },
 
     {
-      "title": "Buttermilk Creams with Strawberries",
-      "image" : "https://www.edamam.com/web-img/af6/af6e66d2d8b8de01a99d7587429223ae.jpg",
+      "title": "Zuka",
+      "image" : "https://rov.gamefever.co/wp-content/uploads/rov_database_image/hero_image/82.jpg",
       "url": "http://www.marthastewart.com/314096/buttermilk-creams-with-strawberries",
-      "description": "Whipped cream gives these no-bake eggless custards a delicate texture. Don't worry if the mixture forms clumps at first -- it will come together with gentle folding.",
+      "description": "สกิลติดตัว The Chi ทุก 15 วิ เขาจะสร้างความเสียหายกายภาพใส่ฮีโร่ศัตรูแรงขึ้น 15% ภายในเวลา 5 วิ (เพิ่มขึ้น 5% เมื่อ LV ฮีโร่ถึง 5/9/13)",
       "servings": 8,
       "dietLabel": "Low-Sodium",
       "ingredientLines" : [ "1 1/4 teaspoons unflavored gelatin (from a 1/4-ounce envelope)", "3/4 cup sugar", "1 cup low-fat buttermilk", "1 1/2 cups heavy cream", "1 pound strawberries, hulled and quartered", "1 teaspoon fresh lemon juice" ]

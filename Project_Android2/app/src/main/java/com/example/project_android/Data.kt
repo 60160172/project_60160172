@@ -51,7 +51,7 @@ class Data : Fragment() {
         val view = inflater.inflate(R.layout.fragment_data, container, false)
         val imgVi : ImageView = view.findViewById(R.id.imgV)
         val headTxt : TextView = view.findViewById(R.id.tv_name)
-        val bodyTxt : TextView = view.findViewById(R.id.tv_description)
+        val bodyTxt : TextView = view.findViewById(R.id.a_description)
 
 
         headTxt.setText(head)

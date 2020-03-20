@@ -37,7 +37,7 @@ class MainChart : Fragment() {
         Pie_id = view.findViewById(R.id.pie_id)
         Line_id = view.findViewById(R.id.line_id)
 
-        //Bar_Chart(Bar_id)
+        Bar_Chart(Bar_id)
         Pie_Chart(Pie_id)
         Line_Chart(Line_id)
 

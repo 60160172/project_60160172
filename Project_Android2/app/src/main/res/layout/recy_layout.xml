@@ -4,7 +4,7 @@
     android:orientation="horizontal"
     android:layout_width="match_parent"
     android:layout_height="wrap_content"
-    android:background="@android:color/white"
+    android:background="#000000"
     android:padding="16dp">
 
     <ImageView
@@ -24,12 +24,14 @@
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
             android:text="First name"
+            android:textColor="#FFFFFF"
             android:textSize="22sp"/>
         <TextView
             android:id="@+id/tv_description"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
             android:text="Description"
+            android:textColor="#FFFFFF"
             android:textSize="18sp"/>
 
     </LinearLayout>
